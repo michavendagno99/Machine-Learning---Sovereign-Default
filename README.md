@@ -7,4 +7,4 @@ Linkedin: [Michael Stephen Arias Avendaño](https://www.linkedin.com/in/michaels
 ## Data Sources:
 
 - [Sovereign Default: Bank of Canada (BoC) - Sovereign Default Database](https://www.bankofcanada.ca/2023/07/staff-analytical-note-2023-10/)
-- [World Development Indicators: World Bank](https://www.bankofcanada.ca/2023/07/staff-analytical-note-2023-10/](https://databank.worldbank.org/source/world-development-indicators)
+- [World Development Indicators: World Bank](https://databank.worldbank.org/source/world-development-indicators)
