@@ -11,4 +11,4 @@ Linkedin: [Michael Stephen Arias Avendaño](https://www.linkedin.com/in/michaels
 
 ## Notebook
 
-- [Notebook](./Thesis_final.ipynb)
+- [./Thesis_final.ipynb](https://github.com/michavendagno99/Machine-Learning---Sovereign-Default/blob/main/Thesis_Final.ipynb)
