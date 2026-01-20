@@ -1,0 +1,391 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+GDP deflator (base year varies by country),0.09807857,0.09807857,increases_default_risk,DEFAULT_CHINA
+Import unit value index (2015 = 100),0.041423015,0.041423015,increases_default_risk,DEFAULT_CHINA
+Import value index (2015 = 100),0.030795977,0.030795977,increases_default_risk,DEFAULT_CHINA
+Total reserves minus gold (current US$),0.027099054,0.027099054,increases_default_risk,DEFAULT_CHINA
+Voice and Accountability: Standard Error,0.026648443,0.026648443,increases_default_risk,DEFAULT_CHINA
+Export volume index (2015 = 100),0.020478545,0.020478545,increases_default_risk,DEFAULT_CHINA
+Import volume index (2015 = 100),0.012586092,0.012586092,increases_default_risk,DEFAULT_CHINA
+Export value index (2015 = 100),0.012350411,0.012350411,increases_default_risk,DEFAULT_CHINA
+"Net bilateral aid flows from DAC donors, Spain (current US$)",0.012061858,0.012061858,increases_default_risk,DEFAULT_CHINA
+"Labor force with basic education, male (% of male working-age population with basic education)",0.011604391,0.011604391,increases_default_risk,DEFAULT_CHINA
+GDP per capita (current LCU),0.011233086,0.011233086,increases_default_risk,DEFAULT_CHINA
+"Portfolio investment, net (BoP, current US$)",0.009244769,0.009244769,increases_default_risk,DEFAULT_CHINA
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.008838416,0.008838416,increases_default_risk,DEFAULT_CHINA
+"Total reserves (includes gold, current US$)",0.008013505,0.008013505,increases_default_risk,DEFAULT_CHINA
+Net foreign assets (current LCU),0.007886328,0.007886328,increases_default_risk,DEFAULT_CHINA
+"Net financial flows, IDA (NFL, current US$)",-0.1808627,0.1808627,reduces_default_risk,DEFAULT_CHINA
+Gross fixed capital formation (current US$),-0.08263666,0.08263666,reduces_default_risk,DEFAULT_CHINA
+"Time to export, documentary compliance (hours)",-0.052159045,0.052159045,reduces_default_risk,DEFAULT_CHINA
+UHC service coverage index,-0.049621586,0.049621586,reduces_default_risk,DEFAULT_CHINA
+DEC alternative conversion factor (LCU per US$),-0.048371885,0.048371885,reduces_default_risk,DEFAULT_CHINA
+Domestic general government health expenditure per capita (current US$),-0.043154832,0.043154832,reduces_default_risk,DEFAULT_CHINA
+Fixed broadband subscriptions (per 100 people),-0.039908983,0.039908983,reduces_default_risk,DEFAULT_CHINA
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),-0.036953963,0.036953963,reduces_default_risk,DEFAULT_CHINA
+Arms exports (SIPRI trend indicator values),-0.03467653,0.03467653,reduces_default_risk,DEFAULT_CHINA
+"School enrollment, primary, private (% of total primary)",-0.03409486,0.03409486,reduces_default_risk,DEFAULT_CHINA
+Private credit bureau coverage (% of adults),-0.034023527,0.034023527,reduces_default_risk,DEFAULT_CHINA
+High-technology exports (current US$),-0.030534418,0.030534418,reduces_default_risk,DEFAULT_CHINA
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),-0.027878854,0.027878854,reduces_default_risk,DEFAULT_CHINA
+Households and NPISHs Final consumption expenditure (current US$),-0.01910856,0.01910856,reduces_default_risk,DEFAULT_CHINA
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",-0.014503367,0.014503367,reduces_default_risk,DEFAULT_CHINA
+Number of deaths ages 10-14 years,0.019590477,0.019590477,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Communications, computer, etc. (% of service exports, BoP)",0.01351737,0.01351737,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Agricultural machinery, tractors",0.009933406,0.009933406,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Computer, communications and other services (% of commercial service exports)",0.008209988,0.008209988,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Proportion of seats held by women in national parliaments (%),0.007383371,0.007383371,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Exclusive breastfeeding (% of children under 6 months),0.0070616645,0.0070616645,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Current education expenditure, total (% of total expenditure in public institutions)",0.006654621,0.006654621,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Discrepancy in expenditure estimate of GDP (current LCU),0.006102456,0.006102456,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Urban population (% of total population),0.0059467047,0.0059467047,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Adjusted savings: consumption of fixed capital (% of GNI),0.005601665,0.005601665,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Industry (including construction), value added (% of GDP)",0.0047808797,0.0047808797,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Social contributions (% of revenue),0.004756686,0.004756686,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Net primary income (Net income from abroad) (current LCU),0.0046885065,0.0046885065,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Trained teachers in primary education, female (% of female teachers)",0.0043153376,0.0043153376,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Physicians (per 1,000 people)",0.0038667244,0.0038667244,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Women Business and the Law Index Score (scale 1-100),-0.40096086,0.40096086,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Population density (people per sq. km of land area),-0.27161756,0.27161756,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Total reserves (% of total external debt),-0.12724297,0.12724297,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Net primary income (Net income from abroad) (current US$),-0.081322044,0.081322044,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Import volume index (2015 = 100),-0.05929695,0.05929695,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Foreign direct investment, net outflows (BoP, current US$)",-0.042120725,0.042120725,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Time required to start a business, female (days)",-0.03227475,0.03227475,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Consumer price index (2010 = 100),-0.03216086,0.03216086,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Taxes less subsidies on products (current LCU),-0.032073654,0.032073654,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Net foreign assets (current LCU),-0.03048509,0.03048509,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Public private partnerships investment in transport (current US$),-0.027540447,0.027540447,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Net trade in goods (BoP, current US$)",-0.02635066,0.02635066,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Government Effectiveness: Standard Error,-0.02491389,0.02491389,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Net trade in goods and services (BoP, current US$)",-0.021848196,0.021848196,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+GDP deflator (base year varies by country),-0.021493912,0.021493912,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Number of deaths ages 20-24 years,0.04039844,0.04039844,increases_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",0.036720164,0.036720164,increases_default_risk,DEFAULT_FC_BONDS
+Broad money (current LCU),0.02937632,0.02937632,increases_default_risk,DEFAULT_FC_BONDS
+Gross national expenditure deflator (base year varies by country),0.026539234,0.026539234,increases_default_risk,DEFAULT_FC_BONDS
+Women Business and the Law Index Score (scale 1-100),0.02651591,0.02651591,increases_default_risk,DEFAULT_FC_BONDS
+GNI per capita growth (annual %),0.021990944,0.021990944,increases_default_risk,DEFAULT_FC_BONDS
+Individuals using the Internet (% of population),0.02168761,0.02168761,increases_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",0.012633066,0.012633066,increases_default_risk,DEFAULT_FC_BONDS
+"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.012296063,0.012296063,increases_default_risk,DEFAULT_FC_BONDS
+Net domestic credit (current LCU),0.012243838,0.012243838,increases_default_risk,DEFAULT_FC_BONDS
+Number of infant deaths,0.012175112,0.012175112,increases_default_risk,DEFAULT_FC_BONDS
+Fixed broadband subscriptions (per 100 people),0.011718777,0.011718777,increases_default_risk,DEFAULT_FC_BONDS
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",0.00989376,0.00989376,increases_default_risk,DEFAULT_FC_BONDS
+Claims on other sectors of the domestic economy (annual growth as % of broad money),0.00957587,0.00957587,increases_default_risk,DEFAULT_FC_BONDS
+"School enrollment, secondary (% net)",0.009234674,0.009234674,increases_default_risk,DEFAULT_FC_BONDS
+"Prevalence of wasting, weight for height (% of children under 5)",-0.16812311,0.16812311,reduces_default_risk,DEFAULT_FC_BONDS
+"Internally displaced persons, total displaced by conflict and violence (number of people)",-0.08669614,0.08669614,reduces_default_risk,DEFAULT_FC_BONDS
+Net investment in nonfinancial assets (% of GDP),-0.08422703,0.08422703,reduces_default_risk,DEFAULT_FC_BONDS
+Net investment in nonfinancial assets (current LCU),-0.056694057,0.056694057,reduces_default_risk,DEFAULT_FC_BONDS
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",-0.052182924,0.052182924,reduces_default_risk,DEFAULT_FC_BONDS
+"Unemployment with intermediate education, male (% of male labor force with intermediate education)",-0.05198355,0.05198355,reduces_default_risk,DEFAULT_FC_BONDS
+Losses due to theft and vandalism (% of annual sales for affected firms),-0.042624164,0.042624164,reduces_default_risk,DEFAULT_FC_BONDS
+"Service imports (BoP, current US$)",-0.041786887,0.041786887,reduces_default_risk,DEFAULT_FC_BONDS
+Gross fixed capital formation (% of GDP),-0.03743357,0.03743357,reduces_default_risk,DEFAULT_FC_BONDS
+"Net bilateral aid flows from DAC donors, Norway (current US$)",-0.03404587,0.03404587,reduces_default_risk,DEFAULT_FC_BONDS
+General government final consumption expenditure (% of GDP),-0.03401742,0.03401742,reduces_default_risk,DEFAULT_FC_BONDS
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",-0.033115175,0.033115175,reduces_default_risk,DEFAULT_FC_BONDS
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),-0.02833768,0.02833768,reduces_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",-0.024417795,0.024417795,reduces_default_risk,DEFAULT_FC_BONDS
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",-0.02332579,0.02332579,reduces_default_risk,DEFAULT_FC_BONDS
+Consumer price index (2010 = 100),0.27139422,0.27139422,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import volume index (2015 = 100),0.13907826,0.13907826,increases_default_risk,DEFAULT_FISCAL_ARREARS
+GDP deflator (base year varies by country),0.06487033,0.06487033,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Net foreign assets (current LCU),0.04545363,0.04545363,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Political Stability and Absence of Violence/Terrorism: Standard Error,0.034709577,0.034709577,increases_default_risk,DEFAULT_FISCAL_ARREARS
+GDP per capita (current LCU),0.019752866,0.019752866,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import value index (2015 = 100),0.016096134,0.016096134,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Net domestic credit (current LCU),0.014298639,0.014298639,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Export value index (2015 = 100),0.012980337,0.012980337,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import unit value index (2015 = 100),0.009600006,0.009600006,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"Computer, communications and other services (% of commercial service imports)",0.008517452,0.008517452,increases_default_risk,DEFAULT_FISCAL_ARREARS
+External balance on goods and services (current LCU),0.008087063,0.008087063,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",0.007902387,0.007902387,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Prevalence of undernourishment (% of population),0.0069085984,0.0069085984,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"School enrollment, secondary (% gross)",0.0063133026,0.0063133026,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Changes in inventories (current US$),-0.046613723,0.046613723,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Net capital account (BoP, current US$)",-0.023643272,0.023643272,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Individuals using the Internet (% of population),-0.018459473,0.018459473,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Persistence to grade 5, female (% of cohort)",-0.013640059,0.013640059,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Net ODA received (% of imports of goods, services and primary income)",-0.013257398,0.013257398,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Contraceptive prevalence, any method (% of married women ages 15-49)",-0.012239693,0.012239693,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Secure Internet servers (per 1 million people),-0.012019152,0.012019152,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Unemployment with advanced education (% of total labor force with advanced education),-0.01006589,0.01006589,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Exports of goods and services (constant 2015 US$),-0.008641482,0.008641482,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Agricultural machinery, tractors per 100 sq. km of arable land",-0.0084719565,0.0084719565,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+GDP deflator: linked series (base year varies by country),-0.008318251,0.008318251,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Nitrous oxide emissions (% change from 1990),-0.008174135,0.008174135,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Suicide mortality rate, male (per 100,000 male population)",-0.007769026,0.007769026,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Gross capital formation (constant 2015 US$),-0.0073677134,0.0073677134,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Losses due to theft and vandalism (% of annual sales for affected firms),-0.007163037,0.007163037,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Net secondary income (Net current transfers from abroad) (current LCU),0.030832278,0.030832278,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, manufactured products (%)",0.024537487,0.024537487,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, all products (%)",0.02155591,0.02155591,increases_default_risk,DEFAULT_IADB
+"Agricultural machinery, tractors per 100 sq. km of arable land",0.008777346,0.008777346,increases_default_risk,DEFAULT_IADB
+Methane emissions in energy sector (thousand metric tons of CO2 equivalent),0.007970014,0.007970014,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, primary products (%)",0.0075845444,0.0075845444,increases_default_risk,DEFAULT_IADB
+"Renewable internal freshwater resources, total (billion cubic meters)",0.0073382673,0.0073382673,increases_default_risk,DEFAULT_IADB
+Agricultural irrigated land (% of total agricultural land),0.006117083,0.006117083,increases_default_risk,DEFAULT_IADB
+"Net financial flows, RDB concessional (NFL, current US$)",0.004984803,0.004984803,increases_default_risk,DEFAULT_IADB
+Discrepancy in expenditure estimate of GDP (current LCU),0.0041963374,0.0041963374,increases_default_risk,DEFAULT_IADB
+"Foreign direct investment, net outflows (% of GDP)",0.0037713842,0.0037713842,increases_default_risk,DEFAULT_IADB
+GDP per capita (constant LCU),0.0035143737,0.0035143737,increases_default_risk,DEFAULT_IADB
+"School enrollment, secondary, female (% net)",0.003279024,0.003279024,increases_default_risk,DEFAULT_IADB
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",0.003124699,0.003124699,increases_default_risk,DEFAULT_IADB
+External balance on goods and services (current LCU),0.0031148943,0.0031148943,increases_default_risk,DEFAULT_IADB
+Renewable internal freshwater resources per capita (cubic meters),-0.4489529,0.4489529,reduces_default_risk,DEFAULT_IADB
+Export value index (2015 = 100),-0.3607982,0.3607982,reduces_default_risk,DEFAULT_IADB
+Population density (people per sq. km of land area),-0.1879768,0.1879768,reduces_default_risk,DEFAULT_IADB
+"Annual freshwater withdrawals, total (% of internal resources)",-0.10645901,0.10645901,reduces_default_risk,DEFAULT_IADB
+"Charges for the use of intellectual property, payments (BoP, current US$)",-0.105627045,0.105627045,reduces_default_risk,DEFAULT_IADB
+Agricultural land (% of land area),-0.10276177,0.10276177,reduces_default_risk,DEFAULT_IADB
+Export unit value index (2015 = 100),-0.09766541,0.09766541,reduces_default_risk,DEFAULT_IADB
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",-0.09497751,0.09497751,reduces_default_risk,DEFAULT_IADB
+"Net financial flows, multilateral (NFL, current US$)",-0.08642045,0.08642045,reduces_default_risk,DEFAULT_IADB
+Ores and metals imports (% of merchandise imports),-0.08269424,0.08269424,reduces_default_risk,DEFAULT_IADB
+Import value index (2015 = 100),-0.08261706,0.08261706,reduces_default_risk,DEFAULT_IADB
+Proportion of people living below 50 percent of median income (%),-0.08020961,0.08020961,reduces_default_risk,DEFAULT_IADB
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",-0.07439143,0.07439143,reduces_default_risk,DEFAULT_IADB
+Ratio of female to male labor force participation rate (%) (national estimate),-0.056252353,0.056252353,reduces_default_risk,DEFAULT_IADB
+"Inflation, GDP deflator (annual %)",-0.05111256,0.05111256,reduces_default_risk,DEFAULT_IADB
+"Net bilateral aid flows from DAC donors, Hungary (current US$)",0.013812867,0.013812867,increases_default_risk,DEFAULT_IBRD
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",0.0117934905,0.0117934905,increases_default_risk,DEFAULT_IBRD
+"Net financial flows, IDA (NFL, current US$)",0.009301894,0.009301894,increases_default_risk,DEFAULT_IBRD
+"Net financial flows, IBRD (NFL, current US$)",0.008779683,0.008779683,increases_default_risk,DEFAULT_IBRD
+Changes in inventories (constant LCU),0.007992418,0.007992418,increases_default_risk,DEFAULT_IBRD
+Energy use (kg of oil equivalent per capita),0.0072099287,0.0072099287,increases_default_risk,DEFAULT_IBRD
+"ICT service exports (% of service exports, BoP)",0.006554501,0.006554501,increases_default_risk,DEFAULT_IBRD
+"External debt stocks, short-term (DOD, current US$)",0.0063278577,0.0063278577,increases_default_risk,DEFAULT_IBRD
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",0.0055474946,0.0055474946,increases_default_risk,DEFAULT_IBRD
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),0.005265758,0.005265758,increases_default_risk,DEFAULT_IBRD
+Broad money (current LCU),0.005142122,0.005142122,increases_default_risk,DEFAULT_IBRD
+"Net incurrence of liabilities, total (% of GDP)",0.0047858055,0.0047858055,increases_default_risk,DEFAULT_IBRD
+"Net incurrence of liabilities, total (current LCU)",0.0042838794,0.0042838794,increases_default_risk,DEFAULT_IBRD
+Terrestrial protected areas (% of total land area),0.0041351686,0.0041351686,increases_default_risk,DEFAULT_IBRD
+Gross savings (current US$),0.004012631,0.004012631,increases_default_risk,DEFAULT_IBRD
+GDP deflator: linked series (base year varies by country),-0.30469576,0.30469576,reduces_default_risk,DEFAULT_IBRD
+Gross fixed capital formation (% of GDP),-0.2151705,0.2151705,reduces_default_risk,DEFAULT_IBRD
+"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.20606545,0.20606545,reduces_default_risk,DEFAULT_IBRD
+"Net financial flows, RDB concessional (NFL, current US$)",-0.07328538,0.07328538,reduces_default_risk,DEFAULT_IBRD
+Sex ratio at birth (male births per female births),-0.056372985,0.056372985,reduces_default_risk,DEFAULT_IBRD
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.05084039,0.05084039,reduces_default_risk,DEFAULT_IBRD
+"Pupil-teacher ratio, secondary",-0.04295479,0.04295479,reduces_default_risk,DEFAULT_IBRD
+"Pupil-teacher ratio, primary",-0.04204236,0.04204236,reduces_default_risk,DEFAULT_IBRD
+"Claims on central government, etc. (% GDP)",-0.035297103,0.035297103,reduces_default_risk,DEFAULT_IBRD
+Short-term debt (% of total reserves),-0.034041494,0.034041494,reduces_default_risk,DEFAULT_IBRD
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",-0.030580603,0.030580603,reduces_default_risk,DEFAULT_IBRD
+"PPG, IBRD (DOD, current US$)",-0.02793655,0.02793655,reduces_default_risk,DEFAULT_IBRD
+"International tourism, receipts (current US$)",-0.027192984,0.027192984,reduces_default_risk,DEFAULT_IBRD
+"Short-term debt (% of exports of goods, services and primary income)",-0.026315313,0.026315313,reduces_default_risk,DEFAULT_IBRD
+"Access to electricity, rural (% of rural population)",-0.025459552,0.025459552,reduces_default_risk,DEFAULT_IBRD
+Fixed broadband subscriptions,0.031758316,0.031758316,increases_default_risk,DEFAULT_IDA
+GNI per capita growth (annual %),0.015201312,0.015201312,increases_default_risk,DEFAULT_IDA
+CO2 emissions (kg per 2015 US$ of GDP),0.014597595,0.014597595,increases_default_risk,DEFAULT_IDA
+"External debt stocks, short-term (DOD, current US$)",0.012957976,0.012957976,increases_default_risk,DEFAULT_IDA
+High-technology exports (current US$),0.012059885,0.012059885,increases_default_risk,DEFAULT_IDA
+Adjusted net national income (annual % growth),0.011942825,0.011942825,increases_default_risk,DEFAULT_IDA
+Adjusted net national income per capita (annual % growth),0.009869038,0.009869038,increases_default_risk,DEFAULT_IDA
+Gross value added at basic prices (GVA) (constant 2015 US$),0.0077852574,0.0077852574,increases_default_risk,DEFAULT_IDA
+"Net bilateral aid flows from DAC donors, Spain (current US$)",0.006700294,0.006700294,increases_default_risk,DEFAULT_IDA
+"Persistence to last grade of primary, male (% of cohort)",0.0061980253,0.0061980253,increases_default_risk,DEFAULT_IDA
+Renewable electricity output (% of total electricity output),0.0054542646,0.0054542646,increases_default_risk,DEFAULT_IDA
+"Lower secondary completion rate, male (% of relevant age group)",0.004181506,0.004181506,increases_default_risk,DEFAULT_IDA
+"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",0.0034899502,0.0034899502,increases_default_risk,DEFAULT_IDA
+"Personal remittances, received (% of GDP)",0.0033519045,0.0033519045,increases_default_risk,DEFAULT_IDA
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),0.0032694493,0.0032694493,increases_default_risk,DEFAULT_IDA
+"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",-0.6859341,0.6859341,reduces_default_risk,DEFAULT_IDA
+Government Effectiveness: Estimate,-0.3164064,0.3164064,reduces_default_risk,DEFAULT_IDA
+"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.08078256,0.08078256,reduces_default_risk,DEFAULT_IDA
+Individuals using the Internet (% of population),-0.06433321,0.06433321,reduces_default_risk,DEFAULT_IDA
+"PPG, IDA (DOD, current US$)",-0.060810827,0.060810827,reduces_default_risk,DEFAULT_IDA
+Total debt service (% of GNI),-0.054398455,0.054398455,reduces_default_risk,DEFAULT_IDA
+"Prevalence of wasting, weight for height (% of children under 5)",-0.05143198,0.05143198,reduces_default_risk,DEFAULT_IDA
+Adjusted savings: consumption of fixed capital (% of GNI),-0.05067173,0.05067173,reduces_default_risk,DEFAULT_IDA
+"PPG, IBRD (DOD, current US$)",-0.042106256,0.042106256,reduces_default_risk,DEFAULT_IDA
+Government Effectiveness: Percentile Rank,-0.038726658,0.038726658,reduces_default_risk,DEFAULT_IDA
+CO2 emissions (kt),-0.038614675,0.038614675,reduces_default_risk,DEFAULT_IDA
+"Agricultural machinery, tractors per 100 sq. km of arable land",-0.038500972,0.038500972,reduces_default_risk,DEFAULT_IDA
+Coverage of social protection and labor programs (% of population),-0.03702567,0.03702567,reduces_default_risk,DEFAULT_IDA
+Total natural resources rents (% of GDP),-0.036272798,0.036272798,reduces_default_risk,DEFAULT_IDA
+"Prevalence of underweight, weight for age (% of children under 5)",-0.0345951,0.0345951,reduces_default_risk,DEFAULT_IDA
+Adjusted net national income (current US$),0.042146657,0.042146657,increases_default_risk,DEFAULT_IMF
+Individuals using the Internet (% of population),0.025645666,0.025645666,increases_default_risk,DEFAULT_IMF
+GDP deflator: linked series (base year varies by country),0.02080515,0.02080515,increases_default_risk,DEFAULT_IMF
+Adjusted savings: education expenditure (current US$),0.01611633,0.01611633,increases_default_risk,DEFAULT_IMF
+GNI growth (annual %),0.008562673,0.008562673,increases_default_risk,DEFAULT_IMF
+"Foreign direct investment, net (BoP, current US$)",0.0072969235,0.0072969235,increases_default_risk,DEFAULT_IMF
+"Services, value added (current US$)",0.006616203,0.006616203,increases_default_risk,DEFAULT_IMF
+Manufactures exports (% of merchandise exports),0.0063902074,0.0063902074,increases_default_risk,DEFAULT_IMF
+"Services, value added (annual % growth)",0.006309659,0.006309659,increases_default_risk,DEFAULT_IMF
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",0.005784151,0.005784151,increases_default_risk,DEFAULT_IMF
+"International tourism, receipts for travel items (current US$)",0.0056852642,0.0056852642,increases_default_risk,DEFAULT_IMF
+"Net financial flows, IBRD (NFL, current US$)",0.005392002,0.005392002,increases_default_risk,DEFAULT_IMF
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",0.0049782754,0.0049782754,increases_default_risk,DEFAULT_IMF
+ICT goods exports (% of total goods exports),0.004009957,0.004009957,increases_default_risk,DEFAULT_IMF
+Medium and high-tech exports (% manufactured exports),0.003289011,0.003289011,increases_default_risk,DEFAULT_IMF
+Total reserves minus gold (current US$),-0.49390242,0.49390242,reduces_default_risk,DEFAULT_IMF
+Fixed telephone subscriptions (per 100 people),-0.25385627,0.25385627,reduces_default_risk,DEFAULT_IMF
+Adjusted savings: gross savings (% of GNI),-0.24948813,0.24948813,reduces_default_risk,DEFAULT_IMF
+"Net bilateral aid flows from DAC donors, France (current US$)",-0.069463305,0.069463305,reduces_default_risk,DEFAULT_IMF
+GDP deflator (base year varies by country),-0.060210947,0.060210947,reduces_default_risk,DEFAULT_IMF
+Net foreign assets (current LCU),-0.05495162,0.05495162,reduces_default_risk,DEFAULT_IMF
+Women Business and the Law Index Score (scale 1-100),-0.0520499,0.0520499,reduces_default_risk,DEFAULT_IMF
+Refugee population by country or territory of origin,-0.048167724,0.048167724,reduces_default_risk,DEFAULT_IMF
+GDP per capita (current LCU),-0.047457725,0.047457725,reduces_default_risk,DEFAULT_IMF
+Ores and metals exports (% of merchandise exports),-0.047448333,0.047448333,reduces_default_risk,DEFAULT_IMF
+"Total reserves (includes gold, current US$)",-0.04294539,0.04294539,reduces_default_risk,DEFAULT_IMF
+Regulatory Quality: Standard Error,-0.041676547,0.041676547,reduces_default_risk,DEFAULT_IMF
+"Pupil-teacher ratio, lower secondary",-0.030713953,0.030713953,reduces_default_risk,DEFAULT_IMF
+Net domestic credit (current LCU),-0.030318325,0.030318325,reduces_default_risk,DEFAULT_IMF
+"Share of tariff lines with specific rates, manufactured products (%)",-0.026836868,0.026836868,reduces_default_risk,DEFAULT_IMF
+"Services, value added (annual % growth)",0.020107135,0.020107135,increases_default_risk,DEFAULT_LC_DEFAULT
+Net domestic credit (current LCU),0.013576997,0.013576997,increases_default_risk,DEFAULT_LC_DEFAULT
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.011022184,0.011022184,increases_default_risk,DEFAULT_LC_DEFAULT
+Rural population (% of total population),0.008024364,0.008024364,increases_default_risk,DEFAULT_LC_DEFAULT
+Adjusted net national income (annual % growth),0.007832837,0.007832837,increases_default_risk,DEFAULT_LC_DEFAULT
+Net investment in nonfinancial assets (current LCU),0.0072269384,0.0072269384,increases_default_risk,DEFAULT_LC_DEFAULT
+"Trained teachers in upper secondary education, male (% of male teachers)",0.007033833,0.007033833,increases_default_risk,DEFAULT_LC_DEFAULT
+Ores and metals exports (% of merchandise exports),0.0066929655,0.0066929655,increases_default_risk,DEFAULT_LC_DEFAULT
+CPIA building human resources rating (1=low to 6=high),0.006414982,0.006414982,increases_default_risk,DEFAULT_LC_DEFAULT
+Lending interest rate (%),0.0060915686,0.0060915686,increases_default_risk,DEFAULT_LC_DEFAULT
+"Lead time to import, median case (days)",0.005742164,0.005742164,increases_default_risk,DEFAULT_LC_DEFAULT
+Regulatory Quality: Standard Error,0.005185372,0.005185372,increases_default_risk,DEFAULT_LC_DEFAULT
+GDP per capita (current US$),0.00461101,0.00461101,increases_default_risk,DEFAULT_LC_DEFAULT
+Social contributions (current LCU),0.0036808779,0.0036808779,increases_default_risk,DEFAULT_LC_DEFAULT
+Public private partnerships investment in energy (current US$),0.0034266238,0.0034266238,increases_default_risk,DEFAULT_LC_DEFAULT
+ICT goods exports (% of total goods exports),-0.16870037,0.16870037,reduces_default_risk,DEFAULT_LC_DEFAULT
+Urban population living in areas where elevation is below 5 meters (% of total population),-0.15470259,0.15470259,reduces_default_risk,DEFAULT_LC_DEFAULT
+Trade (% of GDP),-0.05237317,0.05237317,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",-0.051611356,0.051611356,reduces_default_risk,DEFAULT_LC_DEFAULT
+GDP deflator: linked series (base year varies by country),-0.050690368,0.050690368,reduces_default_risk,DEFAULT_LC_DEFAULT
+"People practicing open defecation, rural (% of rural population)",-0.049733173,0.049733173,reduces_default_risk,DEFAULT_LC_DEFAULT
+Net primary income (Net income from abroad) (current US$),-0.046790868,0.046790868,reduces_default_risk,DEFAULT_LC_DEFAULT
+Consumer price index (2010 = 100),-0.04532454,0.04532454,reduces_default_risk,DEFAULT_LC_DEFAULT
+Primary school age children out-of-school (%),-0.043338925,0.043338925,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Children in employment, male (% of male children ages 7-14)",-0.03356223,0.03356223,reduces_default_risk,DEFAULT_LC_DEFAULT
+Time required to obtain an operating license (days),-0.03335239,0.03335239,reduces_default_risk,DEFAULT_LC_DEFAULT
+Public credit registry coverage (% of adults),-0.03208383,0.03208383,reduces_default_risk,DEFAULT_LC_DEFAULT
+"People using at least basic drinking water services, urban (% of urban population)",-0.03098599,0.03098599,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Unemployment, female (% of female labor force) (national estimate)",-0.030768424,0.030768424,reduces_default_risk,DEFAULT_LC_DEFAULT
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",-0.030266773,0.030266773,reduces_default_risk,DEFAULT_LC_DEFAULT
+Export value index (2015 = 100),0.052101463,0.052101463,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Inflation, GDP deflator: linked series (annual %)",0.021073693,0.021073693,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"People using at least basic drinking water services, rural (% of rural population)",0.011770203,0.011770203,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Short-term debt (% of total reserves),0.010448457,0.010448457,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Inflation, GDP deflator (annual %)",0.009737933,0.009737933,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",0.0075335503,0.0075335503,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Portfolio investment, net (BoP, current US$)",0.0071666483,0.0071666483,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"External debt stocks, long-term (DOD, current US$)",0.007144868,0.007144868,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Gross savings (current LCU),0.006740732,0.006740732,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Individuals using the Internet (% of population),0.0060044867,0.0060044867,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Renewable internal freshwater resources, total (billion cubic meters)",0.0053569237,0.0053569237,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Procedures to register property (number),0.0048637833,0.0048637833,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Foreign direct investment, net outflows (BoP, current US$)",0.0047481386,0.0047481386,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Deposit interest rate (%),0.0041772844,0.0041772844,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Population, total",0.0040641525,0.0040641525,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Total reserves (% of total external debt),-0.10229046,0.10229046,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Mortality rate, neonatal (per 1,000 live births)",-0.06503665,0.06503665,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Import volume index (2015 = 100),-0.03829646,0.03829646,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Urban population (% of total population),-0.036229137,0.036229137,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+GDP deflator (base year varies by country),-0.030826407,0.030826407,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+External health expenditure per capita (current US$),-0.027280914,0.027280914,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Services, value added (annual % growth)",-0.022508577,0.022508577,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Charges for the use of intellectual property, receipts (BoP, current US$)",-0.015953554,0.015953554,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+DEC alternative conversion factor (LCU per US$),-0.0155145945,0.0155145945,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Net foreign assets (current LCU),-0.015323829,0.015323829,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Rural population (% of total population),-0.013455769,0.013455769,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Net bilateral aid flows from DAC donors, Italy (current US$)",-0.013217033,0.013217033,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"School enrollment, primary (gross), gender parity index (GPI)",-0.012439296,0.012439296,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Government expenditure per student, primary (% of GDP per capita)",-0.012233933,0.012233933,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Net official flows from UN agencies, IFAD (current US$)",-0.011608375,0.011608375,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Short-term debt (% of total reserves),0.014923227,0.014923227,increases_default_risk,DEFAULT_PARIS_CLUB
+"Computer, communications and other services (% of commercial service exports)",0.007941313,0.007941313,increases_default_risk,DEFAULT_PARIS_CLUB
+"Air transport, registered carrier departures worldwide",0.006258042,0.006258042,increases_default_risk,DEFAULT_PARIS_CLUB
+"Portfolio equity, net inflows (BoP, current US$)",0.006079422,0.006079422,increases_default_risk,DEFAULT_PARIS_CLUB
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),0.005700283,0.005700283,increases_default_risk,DEFAULT_PARIS_CLUB
+Researchers in R&D (per million people),0.005107304,0.005107304,increases_default_risk,DEFAULT_PARIS_CLUB
+"Charges for the use of intellectual property, payments (BoP, current US$)",0.0049368273,0.0049368273,increases_default_risk,DEFAULT_PARIS_CLUB
+Regulatory Quality: Estimate,0.004729692,0.004729692,increases_default_risk,DEFAULT_PARIS_CLUB
+Diarrhea treatment (% of children under 5 who received ORS packet),0.0045237136,0.0045237136,increases_default_risk,DEFAULT_PARIS_CLUB
+Arable land (hectares),0.00446506,0.00446506,increases_default_risk,DEFAULT_PARIS_CLUB
+"Net capital account (BoP, current US$)",0.0044006584,0.0044006584,increases_default_risk,DEFAULT_PARIS_CLUB
+"Agriculture, forestry, and fishing, value added (% of GDP)",0.0042537856,0.0042537856,increases_default_risk,DEFAULT_PARIS_CLUB
+Agricultural raw materials exports (% of merchandise exports),0.0040252474,0.0040252474,increases_default_risk,DEFAULT_PARIS_CLUB
+Terms of trade adjustment (constant LCU),0.0038893754,0.0038893754,increases_default_risk,DEFAULT_PARIS_CLUB
+"Net financial account (BoP, current US$)",0.0038782547,0.0038782547,increases_default_risk,DEFAULT_PARIS_CLUB
+"Maternal mortality ratio (national estimate, per 100,000 live births)",-0.12071605,0.12071605,reduces_default_risk,DEFAULT_PARIS_CLUB
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),-0.10967901,0.10967901,reduces_default_risk,DEFAULT_PARIS_CLUB
+Adjusted net national income per capita (constant 2015 US$),-0.10398643,0.10398643,reduces_default_risk,DEFAULT_PARIS_CLUB
+Prevalence of anemia among children (% of children ages 6-59 months),-0.077661,0.077661,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export volume index (2015 = 100),-0.0766075,0.0766075,reduces_default_risk,DEFAULT_PARIS_CLUB
+"School enrollment, secondary (gross), gender parity index (GPI)",-0.061052915,0.061052915,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",-0.057892926,0.057892926,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Net bilateral aid flows from DAC donors, France (current US$)",-0.05599083,0.05599083,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Portfolio investment, net (BoP, current US$)",-0.04670494,0.04670494,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export unit value index (2015 = 100),-0.04186404,0.04186404,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export value index (2015 = 100),-0.039275233,0.039275233,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Secondary education, general pupils (% female)",-0.034941714,0.034941714,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Net financial flows, RDB nonconcessional (NFL, current US$)",-0.033485647,0.033485647,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Secondary education, pupils (% female)",-0.03295845,0.03295845,reduces_default_risk,DEFAULT_PARIS_CLUB
+Secure Internet servers (per 1 million people),-0.031359658,0.031359658,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",0.012857142,0.012857142,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Immunization, HepB3 (% of one-year-old children)",0.00930488,0.00930488,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Consumer price index (2010 = 100),0.009182444,0.009182444,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Personal remittances, received (current US$)",0.008167944,0.008167944,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),0.007983736,0.007983736,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+People using at least basic sanitation services (% of population),0.0074630165,0.0074630165,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Portfolio equity, net inflows (BoP, current US$)",0.006154628,0.006154628,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Net bilateral aid flows from DAC donors, France (current US$)",0.0059987707,0.0059987707,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Export unit value index (2015 = 100),0.005992972,0.005992972,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net barter terms of trade index (2015 = 100),0.005491919,0.005491919,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+People using at least basic drinking water services (% of population),0.0053619538,0.0053619538,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Scientific and technical journal articles,0.005236666,0.005236666,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"School enrollment, primary (% net)",0.005001379,0.005001379,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net foreign assets (current LCU),0.004474632,0.004474632,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net primary income (Net income from abroad) (current US$),0.004259073,0.004259073,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+GDP deflator (base year varies by country),-0.13072354,0.13072354,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+GNI per capita (constant 2015 US$),-0.09360321,0.09360321,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Domestic general government health expenditure per capita, PPP (current international $)",-0.091184,0.091184,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Official exchange rate (LCU per US$, period average)",-0.078470185,0.078470185,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Net official flows from UN agencies, UNICEF (current US$)",-0.052670997,0.052670997,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Public and publicly guaranteed debt service (% of GNI),-0.049851313,0.049851313,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+External debt stocks (% of GNI),-0.0448669,0.0448669,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Statistical Capacity Score (Overall Average) (scale 0 - 100),-0.037682608,0.037682608,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Political Stability and Absence of Violence/Terrorism: Standard Error,-0.03253024,0.03253024,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Domestic general government health expenditure per capita (current US$),-0.030853815,0.030853815,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"IBRD loans and IDA credits (DOD, current US$)",-0.03005941,0.03005941,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Population density (people per sq. km of land area),-0.02801984,0.02801984,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Rural population (% of total population),-0.026929647,0.026929647,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Mortality rate, neonatal (per 1,000 live births)",-0.025270734,0.025270734,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+DEC alternative conversion factor (LCU per US$),-0.02397608,0.02397608,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Access to electricity (% of population),0.42745876,0.42745876,increases_default_risk,NO_DEFAULT
+"Access to electricity, urban (% of urban population)",0.29925713,0.29925713,increases_default_risk,NO_DEFAULT
+"Access to electricity, rural (% of rural population)",0.1291035,0.1291035,increases_default_risk,NO_DEFAULT
+Import value index (2015 = 100),0.11971559,0.11971559,increases_default_risk,NO_DEFAULT
+"Net bilateral aid flows from DAC donors, Slovenia (current US$)",0.04032608,0.04032608,increases_default_risk,NO_DEFAULT
+GNI (current US$),0.032723587,0.032723587,increases_default_risk,NO_DEFAULT
+Trained teachers in secondary education (% of total teachers),0.029748814,0.029748814,increases_default_risk,NO_DEFAULT
+Individuals using the Internet (% of population),0.023089826,0.023089826,increases_default_risk,NO_DEFAULT
+People using at least basic drinking water services (% of population),0.022826318,0.022826318,increases_default_risk,NO_DEFAULT
+People using safely managed drinking water services (% of population),0.021520127,0.021520127,increases_default_risk,NO_DEFAULT
+"Hospital beds (per 1,000 people)",0.021475868,0.021475868,increases_default_risk,NO_DEFAULT
+"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",0.020204727,0.020204727,increases_default_risk,NO_DEFAULT
+GDP per capita (constant 2015 US$),0.0199282,0.0199282,increases_default_risk,NO_DEFAULT
+Land area where elevation is below 5 meters (% of total land area),0.018402813,0.018402813,increases_default_risk,NO_DEFAULT
+People using at least basic sanitation services (% of population),0.01628811,0.01628811,increases_default_risk,NO_DEFAULT
+Fixed telephone subscriptions,-0.06524799,0.06524799,reduces_default_risk,NO_DEFAULT
+Rural population (% of total population),-0.05578406,0.05578406,reduces_default_risk,NO_DEFAULT
+GDP (current US$),-0.05488878,0.05488878,reduces_default_risk,NO_DEFAULT
+GDP per capita (current LCU),-0.020391501,0.020391501,reduces_default_risk,NO_DEFAULT
+Voice and Accountability: Standard Error,-0.013641185,0.013641185,reduces_default_risk,NO_DEFAULT
+Methodology assessment of statistical capacity (scale 0 - 100),-0.013638254,0.013638254,reduces_default_risk,NO_DEFAULT
+Source data assessment of statistical capacity (scale 0 - 100),-0.009989114,0.009989114,reduces_default_risk,NO_DEFAULT
+"Maternal mortality ratio (national estimate, per 100,000 live births)",-0.009156258,0.009156258,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, total",-0.009015822,0.009015822,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, female",-0.008891138,0.008891138,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, male",-0.007440329,0.007440329,reduces_default_risk,NO_DEFAULT
+Gross fixed capital formation (% of GDP),-0.0064581935,0.0064581935,reduces_default_risk,NO_DEFAULT
+"Claims on central government, etc. (% GDP)",-0.0059918584,0.0059918584,reduces_default_risk,NO_DEFAULT
+"Mortality rate, neonatal (per 1,000 live births)",-0.005368071,0.005368071,reduces_default_risk,NO_DEFAULT
+Women Business and the Law Index Score (scale 1-100),-0.004245973,0.004245973,reduces_default_risk,NO_DEFAULT
