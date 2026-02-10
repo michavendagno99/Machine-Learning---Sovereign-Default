@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Short-term debt (% of total reserves),0.014923227,0.014923227,increases_default_risk,DEFAULT_PARIS_CLUB
+"Computer, communications and other services (% of commercial service exports)",0.007941313,0.007941313,increases_default_risk,DEFAULT_PARIS_CLUB
+"Air transport, registered carrier departures worldwide",0.006258042,0.006258042,increases_default_risk,DEFAULT_PARIS_CLUB
+"Portfolio equity, net inflows (BoP, current US$)",0.006079422,0.006079422,increases_default_risk,DEFAULT_PARIS_CLUB
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),0.005700283,0.005700283,increases_default_risk,DEFAULT_PARIS_CLUB
+Researchers in R&D (per million people),0.005107304,0.005107304,increases_default_risk,DEFAULT_PARIS_CLUB
+"Charges for the use of intellectual property, payments (BoP, current US$)",0.0049368273,0.0049368273,increases_default_risk,DEFAULT_PARIS_CLUB
+Regulatory Quality: Estimate,0.004729692,0.004729692,increases_default_risk,DEFAULT_PARIS_CLUB
+Diarrhea treatment (% of children under 5 who received ORS packet),0.0045237136,0.0045237136,increases_default_risk,DEFAULT_PARIS_CLUB
+Arable land (hectares),0.00446506,0.00446506,increases_default_risk,DEFAULT_PARIS_CLUB
+"Net capital account (BoP, current US$)",0.0044006584,0.0044006584,increases_default_risk,DEFAULT_PARIS_CLUB
+"Agriculture, forestry, and fishing, value added (% of GDP)",0.0042537856,0.0042537856,increases_default_risk,DEFAULT_PARIS_CLUB
+Agricultural raw materials exports (% of merchandise exports),0.0040252474,0.0040252474,increases_default_risk,DEFAULT_PARIS_CLUB
+Terms of trade adjustment (constant LCU),0.0038893754,0.0038893754,increases_default_risk,DEFAULT_PARIS_CLUB
+"Net financial account (BoP, current US$)",0.0038782547,0.0038782547,increases_default_risk,DEFAULT_PARIS_CLUB
+"Maternal mortality ratio (national estimate, per 100,000 live births)",-0.12071605,0.12071605,reduces_default_risk,DEFAULT_PARIS_CLUB
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),-0.10967901,0.10967901,reduces_default_risk,DEFAULT_PARIS_CLUB
+Adjusted net national income per capita (constant 2015 US$),-0.10398643,0.10398643,reduces_default_risk,DEFAULT_PARIS_CLUB
+Prevalence of anemia among children (% of children ages 6-59 months),-0.077661,0.077661,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export volume index (2015 = 100),-0.0766075,0.0766075,reduces_default_risk,DEFAULT_PARIS_CLUB
+"School enrollment, secondary (gross), gender parity index (GPI)",-0.061052915,0.061052915,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",-0.057892926,0.057892926,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Net bilateral aid flows from DAC donors, France (current US$)",-0.05599083,0.05599083,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Portfolio investment, net (BoP, current US$)",-0.04670494,0.04670494,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export unit value index (2015 = 100),-0.04186404,0.04186404,reduces_default_risk,DEFAULT_PARIS_CLUB
+Export value index (2015 = 100),-0.039275233,0.039275233,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Secondary education, general pupils (% female)",-0.034941714,0.034941714,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Net financial flows, RDB nonconcessional (NFL, current US$)",-0.033485647,0.033485647,reduces_default_risk,DEFAULT_PARIS_CLUB
+"Secondary education, pupils (% female)",-0.03295845,0.03295845,reduces_default_risk,DEFAULT_PARIS_CLUB
+Secure Internet servers (per 1 million people),-0.031359658,0.031359658,reduces_default_risk,DEFAULT_PARIS_CLUB

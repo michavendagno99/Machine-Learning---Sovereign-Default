@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+GDP deflator (base year varies by country),0.09807857,0.09807857,increases_default_risk,DEFAULT_CHINA
+Import unit value index (2015 = 100),0.041423015,0.041423015,increases_default_risk,DEFAULT_CHINA
+Import value index (2015 = 100),0.030795977,0.030795977,increases_default_risk,DEFAULT_CHINA
+Total reserves minus gold (current US$),0.027099054,0.027099054,increases_default_risk,DEFAULT_CHINA
+Voice and Accountability: Standard Error,0.026648443,0.026648443,increases_default_risk,DEFAULT_CHINA
+Export volume index (2015 = 100),0.020478545,0.020478545,increases_default_risk,DEFAULT_CHINA
+Import volume index (2015 = 100),0.012586092,0.012586092,increases_default_risk,DEFAULT_CHINA
+Export value index (2015 = 100),0.012350411,0.012350411,increases_default_risk,DEFAULT_CHINA
+"Net bilateral aid flows from DAC donors, Spain (current US$)",0.012061858,0.012061858,increases_default_risk,DEFAULT_CHINA
+"Labor force with basic education, male (% of male working-age population with basic education)",0.011604391,0.011604391,increases_default_risk,DEFAULT_CHINA
+GDP per capita (current LCU),0.011233086,0.011233086,increases_default_risk,DEFAULT_CHINA
+"Portfolio investment, net (BoP, current US$)",0.009244769,0.009244769,increases_default_risk,DEFAULT_CHINA
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.008838416,0.008838416,increases_default_risk,DEFAULT_CHINA
+"Total reserves (includes gold, current US$)",0.008013505,0.008013505,increases_default_risk,DEFAULT_CHINA
+Net foreign assets (current LCU),0.007886328,0.007886328,increases_default_risk,DEFAULT_CHINA
+"Net financial flows, IDA (NFL, current US$)",-0.1808627,0.1808627,reduces_default_risk,DEFAULT_CHINA
+Gross fixed capital formation (current US$),-0.08263666,0.08263666,reduces_default_risk,DEFAULT_CHINA
+"Time to export, documentary compliance (hours)",-0.052159045,0.052159045,reduces_default_risk,DEFAULT_CHINA
+UHC service coverage index,-0.049621586,0.049621586,reduces_default_risk,DEFAULT_CHINA
+DEC alternative conversion factor (LCU per US$),-0.048371885,0.048371885,reduces_default_risk,DEFAULT_CHINA
+Domestic general government health expenditure per capita (current US$),-0.043154832,0.043154832,reduces_default_risk,DEFAULT_CHINA
+Fixed broadband subscriptions (per 100 people),-0.039908983,0.039908983,reduces_default_risk,DEFAULT_CHINA
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),-0.036953963,0.036953963,reduces_default_risk,DEFAULT_CHINA
+Arms exports (SIPRI trend indicator values),-0.03467653,0.03467653,reduces_default_risk,DEFAULT_CHINA
+"School enrollment, primary, private (% of total primary)",-0.03409486,0.03409486,reduces_default_risk,DEFAULT_CHINA
+Private credit bureau coverage (% of adults),-0.034023527,0.034023527,reduces_default_risk,DEFAULT_CHINA
+High-technology exports (current US$),-0.030534418,0.030534418,reduces_default_risk,DEFAULT_CHINA
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),-0.027878854,0.027878854,reduces_default_risk,DEFAULT_CHINA
+Households and NPISHs Final consumption expenditure (current US$),-0.01910856,0.01910856,reduces_default_risk,DEFAULT_CHINA
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",-0.014503367,0.014503367,reduces_default_risk,DEFAULT_CHINA

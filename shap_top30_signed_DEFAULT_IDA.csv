@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Fixed broadband subscriptions,0.031758316,0.031758316,increases_default_risk,DEFAULT_IDA
+GNI per capita growth (annual %),0.015201312,0.015201312,increases_default_risk,DEFAULT_IDA
+CO2 emissions (kg per 2015 US$ of GDP),0.014597595,0.014597595,increases_default_risk,DEFAULT_IDA
+"External debt stocks, short-term (DOD, current US$)",0.012957976,0.012957976,increases_default_risk,DEFAULT_IDA
+High-technology exports (current US$),0.012059885,0.012059885,increases_default_risk,DEFAULT_IDA
+Adjusted net national income (annual % growth),0.011942825,0.011942825,increases_default_risk,DEFAULT_IDA
+Adjusted net national income per capita (annual % growth),0.009869038,0.009869038,increases_default_risk,DEFAULT_IDA
+Gross value added at basic prices (GVA) (constant 2015 US$),0.0077852574,0.0077852574,increases_default_risk,DEFAULT_IDA
+"Net bilateral aid flows from DAC donors, Spain (current US$)",0.006700294,0.006700294,increases_default_risk,DEFAULT_IDA
+"Persistence to last grade of primary, male (% of cohort)",0.0061980253,0.0061980253,increases_default_risk,DEFAULT_IDA
+Renewable electricity output (% of total electricity output),0.0054542646,0.0054542646,increases_default_risk,DEFAULT_IDA
+"Lower secondary completion rate, male (% of relevant age group)",0.004181506,0.004181506,increases_default_risk,DEFAULT_IDA
+"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",0.0034899502,0.0034899502,increases_default_risk,DEFAULT_IDA
+"Personal remittances, received (% of GDP)",0.0033519045,0.0033519045,increases_default_risk,DEFAULT_IDA
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),0.0032694493,0.0032694493,increases_default_risk,DEFAULT_IDA
+"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",-0.6859341,0.6859341,reduces_default_risk,DEFAULT_IDA
+Government Effectiveness: Estimate,-0.3164064,0.3164064,reduces_default_risk,DEFAULT_IDA
+"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.08078256,0.08078256,reduces_default_risk,DEFAULT_IDA
+Individuals using the Internet (% of population),-0.06433321,0.06433321,reduces_default_risk,DEFAULT_IDA
+"PPG, IDA (DOD, current US$)",-0.060810827,0.060810827,reduces_default_risk,DEFAULT_IDA
+Total debt service (% of GNI),-0.054398455,0.054398455,reduces_default_risk,DEFAULT_IDA
+"Prevalence of wasting, weight for height (% of children under 5)",-0.05143198,0.05143198,reduces_default_risk,DEFAULT_IDA
+Adjusted savings: consumption of fixed capital (% of GNI),-0.05067173,0.05067173,reduces_default_risk,DEFAULT_IDA
+"PPG, IBRD (DOD, current US$)",-0.042106256,0.042106256,reduces_default_risk,DEFAULT_IDA
+Government Effectiveness: Percentile Rank,-0.038726658,0.038726658,reduces_default_risk,DEFAULT_IDA
+CO2 emissions (kt),-0.038614675,0.038614675,reduces_default_risk,DEFAULT_IDA
+"Agricultural machinery, tractors per 100 sq. km of arable land",-0.038500972,0.038500972,reduces_default_risk,DEFAULT_IDA
+Coverage of social protection and labor programs (% of population),-0.03702567,0.03702567,reduces_default_risk,DEFAULT_IDA
+Total natural resources rents (% of GDP),-0.036272798,0.036272798,reduces_default_risk,DEFAULT_IDA
+"Prevalence of underweight, weight for age (% of children under 5)",-0.0345951,0.0345951,reduces_default_risk,DEFAULT_IDA

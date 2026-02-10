@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",0.012857142,0.012857142,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Immunization, HepB3 (% of one-year-old children)",0.00930488,0.00930488,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Consumer price index (2010 = 100),0.009182444,0.009182444,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Personal remittances, received (current US$)",0.008167944,0.008167944,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),0.007983736,0.007983736,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+People using at least basic sanitation services (% of population),0.0074630165,0.0074630165,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Portfolio equity, net inflows (BoP, current US$)",0.006154628,0.006154628,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Net bilateral aid flows from DAC donors, France (current US$)",0.0059987707,0.0059987707,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Export unit value index (2015 = 100),0.005992972,0.005992972,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net barter terms of trade index (2015 = 100),0.005491919,0.005491919,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+People using at least basic drinking water services (% of population),0.0053619538,0.0053619538,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Scientific and technical journal articles,0.005236666,0.005236666,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+"School enrollment, primary (% net)",0.005001379,0.005001379,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net foreign assets (current LCU),0.004474632,0.004474632,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+Net primary income (Net income from abroad) (current US$),0.004259073,0.004259073,increases_default_risk,DEFAULT_PRIVATE_CREDITORS
+GDP deflator (base year varies by country),-0.13072354,0.13072354,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+GNI per capita (constant 2015 US$),-0.09360321,0.09360321,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Domestic general government health expenditure per capita, PPP (current international $)",-0.091184,0.091184,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Official exchange rate (LCU per US$, period average)",-0.078470185,0.078470185,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Net official flows from UN agencies, UNICEF (current US$)",-0.052670997,0.052670997,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Public and publicly guaranteed debt service (% of GNI),-0.049851313,0.049851313,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+External debt stocks (% of GNI),-0.0448669,0.0448669,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Statistical Capacity Score (Overall Average) (scale 0 - 100),-0.037682608,0.037682608,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Political Stability and Absence of Violence/Terrorism: Standard Error,-0.03253024,0.03253024,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Domestic general government health expenditure per capita (current US$),-0.030853815,0.030853815,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"IBRD loans and IDA credits (DOD, current US$)",-0.03005941,0.03005941,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Population density (people per sq. km of land area),-0.02801984,0.02801984,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+Rural population (% of total population),-0.026929647,0.026929647,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+"Mortality rate, neonatal (per 1,000 live births)",-0.025270734,0.025270734,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS
+DEC alternative conversion factor (LCU per US$),-0.02397608,0.02397608,reduces_default_risk,DEFAULT_PRIVATE_CREDITORS

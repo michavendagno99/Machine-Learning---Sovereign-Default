@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Net secondary income (Net current transfers from abroad) (current LCU),0.030832278,0.030832278,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, manufactured products (%)",0.024537487,0.024537487,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, all products (%)",0.02155591,0.02155591,increases_default_risk,DEFAULT_IADB
+"Agricultural machinery, tractors per 100 sq. km of arable land",0.008777346,0.008777346,increases_default_risk,DEFAULT_IADB
+Methane emissions in energy sector (thousand metric tons of CO2 equivalent),0.007970014,0.007970014,increases_default_risk,DEFAULT_IADB
+"Share of tariff lines with specific rates, primary products (%)",0.0075845444,0.0075845444,increases_default_risk,DEFAULT_IADB
+"Renewable internal freshwater resources, total (billion cubic meters)",0.0073382673,0.0073382673,increases_default_risk,DEFAULT_IADB
+Agricultural irrigated land (% of total agricultural land),0.006117083,0.006117083,increases_default_risk,DEFAULT_IADB
+"Net financial flows, RDB concessional (NFL, current US$)",0.004984803,0.004984803,increases_default_risk,DEFAULT_IADB
+Discrepancy in expenditure estimate of GDP (current LCU),0.0041963374,0.0041963374,increases_default_risk,DEFAULT_IADB
+"Foreign direct investment, net outflows (% of GDP)",0.0037713842,0.0037713842,increases_default_risk,DEFAULT_IADB
+GDP per capita (constant LCU),0.0035143737,0.0035143737,increases_default_risk,DEFAULT_IADB
+"School enrollment, secondary, female (% net)",0.003279024,0.003279024,increases_default_risk,DEFAULT_IADB
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",0.003124699,0.003124699,increases_default_risk,DEFAULT_IADB
+External balance on goods and services (current LCU),0.0031148943,0.0031148943,increases_default_risk,DEFAULT_IADB
+Renewable internal freshwater resources per capita (cubic meters),-0.4489529,0.4489529,reduces_default_risk,DEFAULT_IADB
+Export value index (2015 = 100),-0.3607982,0.3607982,reduces_default_risk,DEFAULT_IADB
+Population density (people per sq. km of land area),-0.1879768,0.1879768,reduces_default_risk,DEFAULT_IADB
+"Annual freshwater withdrawals, total (% of internal resources)",-0.10645901,0.10645901,reduces_default_risk,DEFAULT_IADB
+"Charges for the use of intellectual property, payments (BoP, current US$)",-0.105627045,0.105627045,reduces_default_risk,DEFAULT_IADB
+Agricultural land (% of land area),-0.10276177,0.10276177,reduces_default_risk,DEFAULT_IADB
+Export unit value index (2015 = 100),-0.09766541,0.09766541,reduces_default_risk,DEFAULT_IADB
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",-0.09497751,0.09497751,reduces_default_risk,DEFAULT_IADB
+"Net financial flows, multilateral (NFL, current US$)",-0.08642045,0.08642045,reduces_default_risk,DEFAULT_IADB
+Ores and metals imports (% of merchandise imports),-0.08269424,0.08269424,reduces_default_risk,DEFAULT_IADB
+Import value index (2015 = 100),-0.08261706,0.08261706,reduces_default_risk,DEFAULT_IADB
+Proportion of people living below 50 percent of median income (%),-0.08020961,0.08020961,reduces_default_risk,DEFAULT_IADB
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",-0.07439143,0.07439143,reduces_default_risk,DEFAULT_IADB
+Ratio of female to male labor force participation rate (%) (national estimate),-0.056252353,0.056252353,reduces_default_risk,DEFAULT_IADB
+"Inflation, GDP deflator (annual %)",-0.05111256,0.05111256,reduces_default_risk,DEFAULT_IADB

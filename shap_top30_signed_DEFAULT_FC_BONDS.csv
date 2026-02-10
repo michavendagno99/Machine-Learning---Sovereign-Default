@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Number of deaths ages 20-24 years,0.04039844,0.04039844,increases_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",0.036720164,0.036720164,increases_default_risk,DEFAULT_FC_BONDS
+Broad money (current LCU),0.02937632,0.02937632,increases_default_risk,DEFAULT_FC_BONDS
+Gross national expenditure deflator (base year varies by country),0.026539234,0.026539234,increases_default_risk,DEFAULT_FC_BONDS
+Women Business and the Law Index Score (scale 1-100),0.02651591,0.02651591,increases_default_risk,DEFAULT_FC_BONDS
+GNI per capita growth (annual %),0.021990944,0.021990944,increases_default_risk,DEFAULT_FC_BONDS
+Individuals using the Internet (% of population),0.02168761,0.02168761,increases_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",0.012633066,0.012633066,increases_default_risk,DEFAULT_FC_BONDS
+"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.012296063,0.012296063,increases_default_risk,DEFAULT_FC_BONDS
+Net domestic credit (current LCU),0.012243838,0.012243838,increases_default_risk,DEFAULT_FC_BONDS
+Number of infant deaths,0.012175112,0.012175112,increases_default_risk,DEFAULT_FC_BONDS
+Fixed broadband subscriptions (per 100 people),0.011718777,0.011718777,increases_default_risk,DEFAULT_FC_BONDS
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",0.00989376,0.00989376,increases_default_risk,DEFAULT_FC_BONDS
+Claims on other sectors of the domestic economy (annual growth as % of broad money),0.00957587,0.00957587,increases_default_risk,DEFAULT_FC_BONDS
+"School enrollment, secondary (% net)",0.009234674,0.009234674,increases_default_risk,DEFAULT_FC_BONDS
+"Prevalence of wasting, weight for height (% of children under 5)",-0.16812311,0.16812311,reduces_default_risk,DEFAULT_FC_BONDS
+"Internally displaced persons, total displaced by conflict and violence (number of people)",-0.08669614,0.08669614,reduces_default_risk,DEFAULT_FC_BONDS
+Net investment in nonfinancial assets (% of GDP),-0.08422703,0.08422703,reduces_default_risk,DEFAULT_FC_BONDS
+Net investment in nonfinancial assets (current LCU),-0.056694057,0.056694057,reduces_default_risk,DEFAULT_FC_BONDS
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",-0.052182924,0.052182924,reduces_default_risk,DEFAULT_FC_BONDS
+"Unemployment with intermediate education, male (% of male labor force with intermediate education)",-0.05198355,0.05198355,reduces_default_risk,DEFAULT_FC_BONDS
+Losses due to theft and vandalism (% of annual sales for affected firms),-0.042624164,0.042624164,reduces_default_risk,DEFAULT_FC_BONDS
+"Service imports (BoP, current US$)",-0.041786887,0.041786887,reduces_default_risk,DEFAULT_FC_BONDS
+Gross fixed capital formation (% of GDP),-0.03743357,0.03743357,reduces_default_risk,DEFAULT_FC_BONDS
+"Net bilateral aid flows from DAC donors, Norway (current US$)",-0.03404587,0.03404587,reduces_default_risk,DEFAULT_FC_BONDS
+General government final consumption expenditure (% of GDP),-0.03401742,0.03401742,reduces_default_risk,DEFAULT_FC_BONDS
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",-0.033115175,0.033115175,reduces_default_risk,DEFAULT_FC_BONDS
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),-0.02833768,0.02833768,reduces_default_risk,DEFAULT_FC_BONDS
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",-0.024417795,0.024417795,reduces_default_risk,DEFAULT_FC_BONDS
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",-0.02332579,0.02332579,reduces_default_risk,DEFAULT_FC_BONDS

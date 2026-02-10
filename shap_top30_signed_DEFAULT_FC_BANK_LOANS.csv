@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Number of deaths ages 10-14 years,0.019590477,0.019590477,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Communications, computer, etc. (% of service exports, BoP)",0.01351737,0.01351737,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Agricultural machinery, tractors",0.009933406,0.009933406,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Computer, communications and other services (% of commercial service exports)",0.008209988,0.008209988,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Proportion of seats held by women in national parliaments (%),0.007383371,0.007383371,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Exclusive breastfeeding (% of children under 6 months),0.0070616645,0.0070616645,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Current education expenditure, total (% of total expenditure in public institutions)",0.006654621,0.006654621,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Discrepancy in expenditure estimate of GDP (current LCU),0.006102456,0.006102456,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Urban population (% of total population),0.0059467047,0.0059467047,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Adjusted savings: consumption of fixed capital (% of GNI),0.005601665,0.005601665,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Industry (including construction), value added (% of GDP)",0.0047808797,0.0047808797,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Social contributions (% of revenue),0.004756686,0.004756686,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Net primary income (Net income from abroad) (current LCU),0.0046885065,0.0046885065,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Trained teachers in primary education, female (% of female teachers)",0.0043153376,0.0043153376,increases_default_risk,DEFAULT_FC_BANK_LOANS
+"Physicians (per 1,000 people)",0.0038667244,0.0038667244,increases_default_risk,DEFAULT_FC_BANK_LOANS
+Women Business and the Law Index Score (scale 1-100),-0.40096086,0.40096086,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Population density (people per sq. km of land area),-0.27161756,0.27161756,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Total reserves (% of total external debt),-0.12724297,0.12724297,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Net primary income (Net income from abroad) (current US$),-0.081322044,0.081322044,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Import volume index (2015 = 100),-0.05929695,0.05929695,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Foreign direct investment, net outflows (BoP, current US$)",-0.042120725,0.042120725,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Time required to start a business, female (days)",-0.03227475,0.03227475,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Consumer price index (2010 = 100),-0.03216086,0.03216086,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Taxes less subsidies on products (current LCU),-0.032073654,0.032073654,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Net foreign assets (current LCU),-0.03048509,0.03048509,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Public private partnerships investment in transport (current US$),-0.027540447,0.027540447,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Net trade in goods (BoP, current US$)",-0.02635066,0.02635066,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+Government Effectiveness: Standard Error,-0.02491389,0.02491389,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+"Net trade in goods and services (BoP, current US$)",-0.021848196,0.021848196,reduces_default_risk,DEFAULT_FC_BANK_LOANS
+GDP deflator (base year varies by country),-0.021493912,0.021493912,reduces_default_risk,DEFAULT_FC_BANK_LOANS

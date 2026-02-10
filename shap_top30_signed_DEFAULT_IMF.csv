@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Adjusted net national income (current US$),0.042146657,0.042146657,increases_default_risk,DEFAULT_IMF
+Individuals using the Internet (% of population),0.025645666,0.025645666,increases_default_risk,DEFAULT_IMF
+GDP deflator: linked series (base year varies by country),0.02080515,0.02080515,increases_default_risk,DEFAULT_IMF
+Adjusted savings: education expenditure (current US$),0.01611633,0.01611633,increases_default_risk,DEFAULT_IMF
+GNI growth (annual %),0.008562673,0.008562673,increases_default_risk,DEFAULT_IMF
+"Foreign direct investment, net (BoP, current US$)",0.0072969235,0.0072969235,increases_default_risk,DEFAULT_IMF
+"Services, value added (current US$)",0.006616203,0.006616203,increases_default_risk,DEFAULT_IMF
+Manufactures exports (% of merchandise exports),0.0063902074,0.0063902074,increases_default_risk,DEFAULT_IMF
+"Services, value added (annual % growth)",0.006309659,0.006309659,increases_default_risk,DEFAULT_IMF
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",0.005784151,0.005784151,increases_default_risk,DEFAULT_IMF
+"International tourism, receipts for travel items (current US$)",0.0056852642,0.0056852642,increases_default_risk,DEFAULT_IMF
+"Net financial flows, IBRD (NFL, current US$)",0.005392002,0.005392002,increases_default_risk,DEFAULT_IMF
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",0.0049782754,0.0049782754,increases_default_risk,DEFAULT_IMF
+ICT goods exports (% of total goods exports),0.004009957,0.004009957,increases_default_risk,DEFAULT_IMF
+Medium and high-tech exports (% manufactured exports),0.003289011,0.003289011,increases_default_risk,DEFAULT_IMF
+Total reserves minus gold (current US$),-0.49390242,0.49390242,reduces_default_risk,DEFAULT_IMF
+Fixed telephone subscriptions (per 100 people),-0.25385627,0.25385627,reduces_default_risk,DEFAULT_IMF
+Adjusted savings: gross savings (% of GNI),-0.24948813,0.24948813,reduces_default_risk,DEFAULT_IMF
+"Net bilateral aid flows from DAC donors, France (current US$)",-0.069463305,0.069463305,reduces_default_risk,DEFAULT_IMF
+GDP deflator (base year varies by country),-0.060210947,0.060210947,reduces_default_risk,DEFAULT_IMF
+Net foreign assets (current LCU),-0.05495162,0.05495162,reduces_default_risk,DEFAULT_IMF
+Women Business and the Law Index Score (scale 1-100),-0.0520499,0.0520499,reduces_default_risk,DEFAULT_IMF
+Refugee population by country or territory of origin,-0.048167724,0.048167724,reduces_default_risk,DEFAULT_IMF
+GDP per capita (current LCU),-0.047457725,0.047457725,reduces_default_risk,DEFAULT_IMF
+Ores and metals exports (% of merchandise exports),-0.047448333,0.047448333,reduces_default_risk,DEFAULT_IMF
+"Total reserves (includes gold, current US$)",-0.04294539,0.04294539,reduces_default_risk,DEFAULT_IMF
+Regulatory Quality: Standard Error,-0.041676547,0.041676547,reduces_default_risk,DEFAULT_IMF
+"Pupil-teacher ratio, lower secondary",-0.030713953,0.030713953,reduces_default_risk,DEFAULT_IMF
+Net domestic credit (current LCU),-0.030318325,0.030318325,reduces_default_risk,DEFAULT_IMF
+"Share of tariff lines with specific rates, manufactured products (%)",-0.026836868,0.026836868,reduces_default_risk,DEFAULT_IMF

@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Consumer price index (2010 = 100),0.27139422,0.27139422,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import volume index (2015 = 100),0.13907826,0.13907826,increases_default_risk,DEFAULT_FISCAL_ARREARS
+GDP deflator (base year varies by country),0.06487033,0.06487033,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Net foreign assets (current LCU),0.04545363,0.04545363,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Political Stability and Absence of Violence/Terrorism: Standard Error,0.034709577,0.034709577,increases_default_risk,DEFAULT_FISCAL_ARREARS
+GDP per capita (current LCU),0.019752866,0.019752866,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import value index (2015 = 100),0.016096134,0.016096134,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Net domestic credit (current LCU),0.014298639,0.014298639,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Export value index (2015 = 100),0.012980337,0.012980337,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Import unit value index (2015 = 100),0.009600006,0.009600006,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"Computer, communications and other services (% of commercial service imports)",0.008517452,0.008517452,increases_default_risk,DEFAULT_FISCAL_ARREARS
+External balance on goods and services (current LCU),0.008087063,0.008087063,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",0.007902387,0.007902387,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Prevalence of undernourishment (% of population),0.0069085984,0.0069085984,increases_default_risk,DEFAULT_FISCAL_ARREARS
+"School enrollment, secondary (% gross)",0.0063133026,0.0063133026,increases_default_risk,DEFAULT_FISCAL_ARREARS
+Changes in inventories (current US$),-0.046613723,0.046613723,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Net capital account (BoP, current US$)",-0.023643272,0.023643272,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Individuals using the Internet (% of population),-0.018459473,0.018459473,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Persistence to grade 5, female (% of cohort)",-0.013640059,0.013640059,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Net ODA received (% of imports of goods, services and primary income)",-0.013257398,0.013257398,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Contraceptive prevalence, any method (% of married women ages 15-49)",-0.012239693,0.012239693,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Secure Internet servers (per 1 million people),-0.012019152,0.012019152,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Unemployment with advanced education (% of total labor force with advanced education),-0.01006589,0.01006589,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Exports of goods and services (constant 2015 US$),-0.008641482,0.008641482,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Agricultural machinery, tractors per 100 sq. km of arable land",-0.0084719565,0.0084719565,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+GDP deflator: linked series (base year varies by country),-0.008318251,0.008318251,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Nitrous oxide emissions (% change from 1990),-0.008174135,0.008174135,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+"Suicide mortality rate, male (per 100,000 male population)",-0.007769026,0.007769026,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Gross capital formation (constant 2015 US$),-0.0073677134,0.0073677134,reduces_default_risk,DEFAULT_FISCAL_ARREARS
+Losses due to theft and vandalism (% of annual sales for affected firms),-0.007163037,0.007163037,reduces_default_risk,DEFAULT_FISCAL_ARREARS

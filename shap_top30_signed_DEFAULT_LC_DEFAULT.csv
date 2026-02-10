@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+"Services, value added (annual % growth)",0.020107135,0.020107135,increases_default_risk,DEFAULT_LC_DEFAULT
+Net domestic credit (current LCU),0.013576997,0.013576997,increases_default_risk,DEFAULT_LC_DEFAULT
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.011022184,0.011022184,increases_default_risk,DEFAULT_LC_DEFAULT
+Rural population (% of total population),0.008024364,0.008024364,increases_default_risk,DEFAULT_LC_DEFAULT
+Adjusted net national income (annual % growth),0.007832837,0.007832837,increases_default_risk,DEFAULT_LC_DEFAULT
+Net investment in nonfinancial assets (current LCU),0.0072269384,0.0072269384,increases_default_risk,DEFAULT_LC_DEFAULT
+"Trained teachers in upper secondary education, male (% of male teachers)",0.007033833,0.007033833,increases_default_risk,DEFAULT_LC_DEFAULT
+Ores and metals exports (% of merchandise exports),0.0066929655,0.0066929655,increases_default_risk,DEFAULT_LC_DEFAULT
+CPIA building human resources rating (1=low to 6=high),0.006414982,0.006414982,increases_default_risk,DEFAULT_LC_DEFAULT
+Lending interest rate (%),0.0060915686,0.0060915686,increases_default_risk,DEFAULT_LC_DEFAULT
+"Lead time to import, median case (days)",0.005742164,0.005742164,increases_default_risk,DEFAULT_LC_DEFAULT
+Regulatory Quality: Standard Error,0.005185372,0.005185372,increases_default_risk,DEFAULT_LC_DEFAULT
+GDP per capita (current US$),0.00461101,0.00461101,increases_default_risk,DEFAULT_LC_DEFAULT
+Social contributions (current LCU),0.0036808779,0.0036808779,increases_default_risk,DEFAULT_LC_DEFAULT
+Public private partnerships investment in energy (current US$),0.0034266238,0.0034266238,increases_default_risk,DEFAULT_LC_DEFAULT
+ICT goods exports (% of total goods exports),-0.16870037,0.16870037,reduces_default_risk,DEFAULT_LC_DEFAULT
+Urban population living in areas where elevation is below 5 meters (% of total population),-0.15470259,0.15470259,reduces_default_risk,DEFAULT_LC_DEFAULT
+Trade (% of GDP),-0.05237317,0.05237317,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",-0.051611356,0.051611356,reduces_default_risk,DEFAULT_LC_DEFAULT
+GDP deflator: linked series (base year varies by country),-0.050690368,0.050690368,reduces_default_risk,DEFAULT_LC_DEFAULT
+"People practicing open defecation, rural (% of rural population)",-0.049733173,0.049733173,reduces_default_risk,DEFAULT_LC_DEFAULT
+Net primary income (Net income from abroad) (current US$),-0.046790868,0.046790868,reduces_default_risk,DEFAULT_LC_DEFAULT
+Consumer price index (2010 = 100),-0.04532454,0.04532454,reduces_default_risk,DEFAULT_LC_DEFAULT
+Primary school age children out-of-school (%),-0.043338925,0.043338925,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Children in employment, male (% of male children ages 7-14)",-0.03356223,0.03356223,reduces_default_risk,DEFAULT_LC_DEFAULT
+Time required to obtain an operating license (days),-0.03335239,0.03335239,reduces_default_risk,DEFAULT_LC_DEFAULT
+Public credit registry coverage (% of adults),-0.03208383,0.03208383,reduces_default_risk,DEFAULT_LC_DEFAULT
+"People using at least basic drinking water services, urban (% of urban population)",-0.03098599,0.03098599,reduces_default_risk,DEFAULT_LC_DEFAULT
+"Unemployment, female (% of female labor force) (national estimate)",-0.030768424,0.030768424,reduces_default_risk,DEFAULT_LC_DEFAULT
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",-0.030266773,0.030266773,reduces_default_risk,DEFAULT_LC_DEFAULT

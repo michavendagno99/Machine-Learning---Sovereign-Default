@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Export value index (2015 = 100),0.052101463,0.052101463,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Inflation, GDP deflator: linked series (annual %)",0.021073693,0.021073693,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"People using at least basic drinking water services, rural (% of rural population)",0.011770203,0.011770203,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Short-term debt (% of total reserves),0.010448457,0.010448457,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Inflation, GDP deflator (annual %)",0.009737933,0.009737933,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",0.0075335503,0.0075335503,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Portfolio investment, net (BoP, current US$)",0.0071666483,0.0071666483,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"External debt stocks, long-term (DOD, current US$)",0.007144868,0.007144868,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Gross savings (current LCU),0.006740732,0.006740732,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Individuals using the Internet (% of population),0.0060044867,0.0060044867,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Renewable internal freshwater resources, total (billion cubic meters)",0.0053569237,0.0053569237,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Procedures to register property (number),0.0048637833,0.0048637833,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Foreign direct investment, net outflows (BoP, current US$)",0.0047481386,0.0047481386,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Deposit interest rate (%),0.0041772844,0.0041772844,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Population, total",0.0040641525,0.0040641525,increases_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Total reserves (% of total external debt),-0.10229046,0.10229046,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Mortality rate, neonatal (per 1,000 live births)",-0.06503665,0.06503665,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Import volume index (2015 = 100),-0.03829646,0.03829646,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Urban population (% of total population),-0.036229137,0.036229137,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+GDP deflator (base year varies by country),-0.030826407,0.030826407,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+External health expenditure per capita (current US$),-0.027280914,0.027280914,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Services, value added (annual % growth)",-0.022508577,0.022508577,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Charges for the use of intellectual property, receipts (BoP, current US$)",-0.015953554,0.015953554,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+DEC alternative conversion factor (LCU per US$),-0.0155145945,0.0155145945,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Net foreign assets (current LCU),-0.015323829,0.015323829,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+Rural population (% of total population),-0.013455769,0.013455769,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Net bilateral aid flows from DAC donors, Italy (current US$)",-0.013217033,0.013217033,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"School enrollment, primary (gross), gender parity index (GPI)",-0.012439296,0.012439296,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Government expenditure per student, primary (% of GDP per capita)",-0.012233933,0.012233933,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS
+"Net official flows from UN agencies, IFAD (current US$)",-0.011608375,0.011608375,reduces_default_risk,DEFAULT_OTHER_OFFICIAL_CREDITORS

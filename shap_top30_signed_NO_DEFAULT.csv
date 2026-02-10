@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+Access to electricity (% of population),0.42745876,0.42745876,increases_default_risk,NO_DEFAULT
+"Access to electricity, urban (% of urban population)",0.29925713,0.29925713,increases_default_risk,NO_DEFAULT
+"Access to electricity, rural (% of rural population)",0.1291035,0.1291035,increases_default_risk,NO_DEFAULT
+Import value index (2015 = 100),0.11971559,0.11971559,increases_default_risk,NO_DEFAULT
+"Net bilateral aid flows from DAC donors, Slovenia (current US$)",0.04032608,0.04032608,increases_default_risk,NO_DEFAULT
+GNI (current US$),0.032723587,0.032723587,increases_default_risk,NO_DEFAULT
+Trained teachers in secondary education (% of total teachers),0.029748814,0.029748814,increases_default_risk,NO_DEFAULT
+Individuals using the Internet (% of population),0.023089826,0.023089826,increases_default_risk,NO_DEFAULT
+People using at least basic drinking water services (% of population),0.022826318,0.022826318,increases_default_risk,NO_DEFAULT
+People using safely managed drinking water services (% of population),0.021520127,0.021520127,increases_default_risk,NO_DEFAULT
+"Hospital beds (per 1,000 people)",0.021475868,0.021475868,increases_default_risk,NO_DEFAULT
+"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",0.020204727,0.020204727,increases_default_risk,NO_DEFAULT
+GDP per capita (constant 2015 US$),0.0199282,0.0199282,increases_default_risk,NO_DEFAULT
+Land area where elevation is below 5 meters (% of total land area),0.018402813,0.018402813,increases_default_risk,NO_DEFAULT
+People using at least basic sanitation services (% of population),0.01628811,0.01628811,increases_default_risk,NO_DEFAULT
+Fixed telephone subscriptions,-0.06524799,0.06524799,reduces_default_risk,NO_DEFAULT
+Rural population (% of total population),-0.05578406,0.05578406,reduces_default_risk,NO_DEFAULT
+GDP (current US$),-0.05488878,0.05488878,reduces_default_risk,NO_DEFAULT
+GDP per capita (current LCU),-0.020391501,0.020391501,reduces_default_risk,NO_DEFAULT
+Voice and Accountability: Standard Error,-0.013641185,0.013641185,reduces_default_risk,NO_DEFAULT
+Methodology assessment of statistical capacity (scale 0 - 100),-0.013638254,0.013638254,reduces_default_risk,NO_DEFAULT
+Source data assessment of statistical capacity (scale 0 - 100),-0.009989114,0.009989114,reduces_default_risk,NO_DEFAULT
+"Maternal mortality ratio (national estimate, per 100,000 live births)",-0.009156258,0.009156258,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, total",-0.009015822,0.009015822,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, female",-0.008891138,0.008891138,reduces_default_risk,NO_DEFAULT
+"Population ages 65 and above, male",-0.007440329,0.007440329,reduces_default_risk,NO_DEFAULT
+Gross fixed capital formation (% of GDP),-0.0064581935,0.0064581935,reduces_default_risk,NO_DEFAULT
+"Claims on central government, etc. (% GDP)",-0.0059918584,0.0059918584,reduces_default_risk,NO_DEFAULT
+"Mortality rate, neonatal (per 1,000 live births)",-0.005368071,0.005368071,reduces_default_risk,NO_DEFAULT
+Women Business and the Law Index Score (scale 1-100),-0.004245973,0.004245973,reduces_default_risk,NO_DEFAULT

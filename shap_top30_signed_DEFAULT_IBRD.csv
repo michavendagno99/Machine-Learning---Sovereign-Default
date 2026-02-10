@@ -1,0 +1,31 @@
+feature,mean_signed_shap,mean_abs_shap,direction,class
+"Net bilateral aid flows from DAC donors, Hungary (current US$)",0.013812867,0.013812867,increases_default_risk,DEFAULT_IBRD
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",0.0117934905,0.0117934905,increases_default_risk,DEFAULT_IBRD
+"Net financial flows, IDA (NFL, current US$)",0.009301894,0.009301894,increases_default_risk,DEFAULT_IBRD
+"Net financial flows, IBRD (NFL, current US$)",0.008779683,0.008779683,increases_default_risk,DEFAULT_IBRD
+Changes in inventories (constant LCU),0.007992418,0.007992418,increases_default_risk,DEFAULT_IBRD
+Energy use (kg of oil equivalent per capita),0.0072099287,0.0072099287,increases_default_risk,DEFAULT_IBRD
+"ICT service exports (% of service exports, BoP)",0.006554501,0.006554501,increases_default_risk,DEFAULT_IBRD
+"External debt stocks, short-term (DOD, current US$)",0.0063278577,0.0063278577,increases_default_risk,DEFAULT_IBRD
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",0.0055474946,0.0055474946,increases_default_risk,DEFAULT_IBRD
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),0.005265758,0.005265758,increases_default_risk,DEFAULT_IBRD
+Broad money (current LCU),0.005142122,0.005142122,increases_default_risk,DEFAULT_IBRD
+"Net incurrence of liabilities, total (% of GDP)",0.0047858055,0.0047858055,increases_default_risk,DEFAULT_IBRD
+"Net incurrence of liabilities, total (current LCU)",0.0042838794,0.0042838794,increases_default_risk,DEFAULT_IBRD
+Terrestrial protected areas (% of total land area),0.0041351686,0.0041351686,increases_default_risk,DEFAULT_IBRD
+Gross savings (current US$),0.004012631,0.004012631,increases_default_risk,DEFAULT_IBRD
+GDP deflator: linked series (base year varies by country),-0.30469576,0.30469576,reduces_default_risk,DEFAULT_IBRD
+Gross fixed capital formation (% of GDP),-0.2151705,0.2151705,reduces_default_risk,DEFAULT_IBRD
+"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.20606545,0.20606545,reduces_default_risk,DEFAULT_IBRD
+"Net financial flows, RDB concessional (NFL, current US$)",-0.07328538,0.07328538,reduces_default_risk,DEFAULT_IBRD
+Sex ratio at birth (male births per female births),-0.056372985,0.056372985,reduces_default_risk,DEFAULT_IBRD
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",-0.05084039,0.05084039,reduces_default_risk,DEFAULT_IBRD
+"Pupil-teacher ratio, secondary",-0.04295479,0.04295479,reduces_default_risk,DEFAULT_IBRD
+"Pupil-teacher ratio, primary",-0.04204236,0.04204236,reduces_default_risk,DEFAULT_IBRD
+"Claims on central government, etc. (% GDP)",-0.035297103,0.035297103,reduces_default_risk,DEFAULT_IBRD
+Short-term debt (% of total reserves),-0.034041494,0.034041494,reduces_default_risk,DEFAULT_IBRD
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",-0.030580603,0.030580603,reduces_default_risk,DEFAULT_IBRD
+"PPG, IBRD (DOD, current US$)",-0.02793655,0.02793655,reduces_default_risk,DEFAULT_IBRD
+"International tourism, receipts (current US$)",-0.027192984,0.027192984,reduces_default_risk,DEFAULT_IBRD
+"Short-term debt (% of exports of goods, services and primary income)",-0.026315313,0.026315313,reduces_default_risk,DEFAULT_IBRD
+"Access to electricity, rural (% of rural population)",-0.025459552,0.025459552,reduces_default_risk,DEFAULT_IBRD
